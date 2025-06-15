@@ -1,16 +1,27 @@
-#Details
--**Name : J Vamshi Krishna**
--**Id : B201321**
--**Class : C1**
--**Roll Number : 51**
+# ML Assignment Repository
 
-##List of files
--lab 1 : basics of python, numpy, pandas.
--lab2 : basics of of python, numpy, pandas.
--lab3 : Linear Regression by using imported Class.
--lab4 : Linear Regression (implementing from scratch. done using formula).
--lab5 : Decision Tree.
--lab6 : KNN (using same dataset as in lab5).
--lab7 : KNN (using different dataset).
--lab8 : Naive Bayes Classifier
--lab9 : SVM.
+## 👤 Details
+- **Name**: J Vamshi Krishna  
+- **ID**: B201321  
+- **Class**: C1  
+- **Roll Number**: 51  
+
+---
+
+## 📂 List of Files
+
+- **Lab 1**: Basics of Python, NumPy, Pandas  
+- **Lab 2**: Basics of Python, NumPy, Pandas  
+- **Lab 3**: Linear Regression using imported class  
+- **Lab 4**: Linear Regression (implemented from scratch using formula)  
+- **Lab 5**: Decision Tree  
+- **Lab 6**: KNN (using same dataset as in Lab 5)  
+- **Lab 7**: KNN (using different dataset)  
+- **Lab 8**: Naive Bayes Classifier  
+- **Lab 9**: Support Vector Machine (SVM)  
+
+---
+
+
+## ✍️ Author
+**J Vamshi Krishna**
